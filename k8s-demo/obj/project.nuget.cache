@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cV8dDk1nhoGTbamKw0/3z8JP1HdjlUtOHKqsdb2+Evrf5hlTRGyYI1UffmXEr7S56okWGiFnKEhzfrK3pw6xMw==",
+  "dgSpecHash": "fdvUA3ejpeCwVphr4ZqCASC4sJfnTvQnrLVIwEc/qtNZKqBSKnWCM/Tf+gRmzVv9DJnLgFMqPsTKIPERzOV8Qg==",
   "success": true,
-  "projectFilePath": "D:\\Project\\Project\\K8s\\k8s-demo\\k8s-demo\\k8s-demo.csproj",
+  "projectFilePath": "D:\\Project\\GitHub\\k8s-demo\\k8s-demo\\k8s-demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zhaoyang\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
   ],

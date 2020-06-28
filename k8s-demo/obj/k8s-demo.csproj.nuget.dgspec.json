@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\Project\\K8s\\k8s-demo\\k8s-demo\\k8s-demo.csproj": {}
+    "D:\\Project\\GitHub\\k8s-demo\\k8s-demo\\k8s-demo.csproj": {}
   },
   "projects": {
-    "D:\\Project\\Project\\K8s\\k8s-demo\\k8s-demo\\k8s-demo.csproj": {
+    "D:\\Project\\GitHub\\k8s-demo\\k8s-demo\\k8s-demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\Project\\K8s\\k8s-demo\\k8s-demo\\k8s-demo.csproj",
+        "projectUniqueName": "D:\\Project\\GitHub\\k8s-demo\\k8s-demo\\k8s-demo.csproj",
         "projectName": "k8s-demo",
-        "projectPath": "D:\\Project\\Project\\K8s\\k8s-demo\\k8s-demo\\k8s-demo.csproj",
+        "projectPath": "D:\\Project\\GitHub\\k8s-demo\\k8s-demo\\k8s-demo.csproj",
         "packagesPath": "C:\\Users\\zhaoyang\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\Project\\K8s\\k8s-demo\\k8s-demo\\obj\\",
+        "outputPath": "D:\\Project\\GitHub\\k8s-demo\\k8s-demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zhaoyang\\AppData\\Roaming\\NuGet\\NuGet.Config",
